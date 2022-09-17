@@ -1,0 +1,29 @@
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-2\bin\Debug\Varianta 64-2.exe.config
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-2\bin\Debug\Varianta 64-2.exe
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-2\bin\Debug\Varianta 64-2.pdb
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-2\obj\Debug\Varianta 64-2.csprojResolveAssemblyReference.cache
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-2\obj\Debug\Varianta_64_2.Form1.resources
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-2\obj\Debug\Varianta_64_2.Properties.Resources.resources
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-2\obj\Debug\Varianta 64-2.csproj.GenerateResource.Cache
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-2\obj\Debug\Varianta 64-2.exe
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-2\obj\Debug\Varianta 64-2.pdb
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-2 Termometru rosu galben\obj\Debug\Varianta 64-2.csprojResolveAssemblyReference.cache
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-2 Termometru rosu galben\obj\Debug\Varianta_64_2.Form1.resources
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-2 Termometru rosu galben\obj\Debug\Varianta_64_2.Properties.Resources.resources
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-2 Termometru rosu galben\obj\Debug\Varianta 64-2.csproj.GenerateResource.Cache
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-2 Termometru rosu galben\obj\Debug\Varianta 64-2.exe
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-2 Termometru rosu galben\obj\Debug\Varianta 64-2.pdb
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-2 Termometru rosu galben\bin\Debug\Varianta 64-2.exe.config
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-2 Termometru rosu galben\bin\Debug\Varianta 64-2.exe
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 64-2 Termometru rosu galben\bin\Debug\Varianta 64-2.pdb
+C:\Users\Maria\Downloads\Aplicatii-CSharp-2-main\Varianta 64-2 Termometru rosu galben\bin\Debug\Varianta 64-2.exe.config
+C:\Users\Maria\Downloads\Aplicatii-CSharp-2-main\Varianta 64-2 Termometru rosu galben\bin\Debug\Varianta 64-2.exe
+C:\Users\Maria\Downloads\Aplicatii-CSharp-2-main\Varianta 64-2 Termometru rosu galben\bin\Debug\Varianta 64-2.pdb
+C:\Users\Maria\Downloads\Aplicatii-CSharp-2-main\Varianta 64-2 Termometru rosu galben\obj\Debug\Varianta 64-2.csproj.AssemblyReference.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-2-main\Varianta 64-2 Termometru rosu galben\obj\Debug\Varianta 64-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-2-main\Varianta 64-2 Termometru rosu galben\obj\Debug\Varianta_64_2.Form1.resources
+C:\Users\Maria\Downloads\Aplicatii-CSharp-2-main\Varianta 64-2 Termometru rosu galben\obj\Debug\Varianta_64_2.Properties.Resources.resources
+C:\Users\Maria\Downloads\Aplicatii-CSharp-2-main\Varianta 64-2 Termometru rosu galben\obj\Debug\Varianta 64-2.csproj.GenerateResource.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-2-main\Varianta 64-2 Termometru rosu galben\obj\Debug\Varianta 64-2.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-2-main\Varianta 64-2 Termometru rosu galben\obj\Debug\Varianta 64-2.exe
+C:\Users\Maria\Downloads\Aplicatii-CSharp-2-main\Varianta 64-2 Termometru rosu galben\obj\Debug\Varianta 64-2.pdb

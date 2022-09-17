@@ -1,0 +1,20 @@
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 65-2 Grafic functie x patrat\bin\Debug\Varianta 65-2 Grafic functie x patrat.exe.config
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 65-2 Grafic functie x patrat\bin\Debug\Varianta 65-2 Grafic functie x patrat.exe
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 65-2 Grafic functie x patrat\bin\Debug\Varianta 65-2 Grafic functie x patrat.pdb
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 65-2 Grafic functie x patrat\obj\Debug\Varianta 65-2 Grafic functie x patrat.csprojResolveAssemblyReference.cache
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 65-2 Grafic functie x patrat\obj\Debug\Varianta_65_2_Grafic_functie_x_patrat.Form1.resources
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 65-2 Grafic functie x patrat\obj\Debug\Varianta_65_2_Grafic_functie_x_patrat.Properties.Resources.resources
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 65-2 Grafic functie x patrat\obj\Debug\Varianta 65-2 Grafic functie x patrat.csproj.GenerateResource.Cache
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 65-2 Grafic functie x patrat\obj\Debug\Varianta 65-2 Grafic functie x patrat.exe
+D:\MARIA\Anul 1\Semestrul 2\Programare\Variante\Varianta 65-2 Grafic functie x patrat\obj\Debug\Varianta 65-2 Grafic functie x patrat.pdb
+C:\Users\Maria\Downloads\Aplicatii-CSharp-3-master\Varianta 65-2 Grafic functie x patrat\bin\Debug\Varianta 65-2 Grafic functie x patrat.exe.config
+C:\Users\Maria\Downloads\Aplicatii-CSharp-3-master\Varianta 65-2 Grafic functie x patrat\bin\Debug\Varianta 65-2 Grafic functie x patrat.exe
+C:\Users\Maria\Downloads\Aplicatii-CSharp-3-master\Varianta 65-2 Grafic functie x patrat\bin\Debug\Varianta 65-2 Grafic functie x patrat.pdb
+C:\Users\Maria\Downloads\Aplicatii-CSharp-3-master\Varianta 65-2 Grafic functie x patrat\obj\Debug\Varianta 65-2 Grafic functie x patrat.csproj.AssemblyReference.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-3-master\Varianta 65-2 Grafic functie x patrat\obj\Debug\Varianta 65-2 Grafic functie x patrat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-3-master\Varianta 65-2 Grafic functie x patrat\obj\Debug\Varianta_65_2_Grafic_functie_x_patrat.Form1.resources
+C:\Users\Maria\Downloads\Aplicatii-CSharp-3-master\Varianta 65-2 Grafic functie x patrat\obj\Debug\Varianta_65_2_Grafic_functie_x_patrat.Properties.Resources.resources
+C:\Users\Maria\Downloads\Aplicatii-CSharp-3-master\Varianta 65-2 Grafic functie x patrat\obj\Debug\Varianta 65-2 Grafic functie x patrat.csproj.GenerateResource.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-3-master\Varianta 65-2 Grafic functie x patrat\obj\Debug\Varianta 65-2 Grafic functie x patrat.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-3-master\Varianta 65-2 Grafic functie x patrat\obj\Debug\Varianta 65-2 Grafic functie x patrat.exe
+C:\Users\Maria\Downloads\Aplicatii-CSharp-3-master\Varianta 65-2 Grafic functie x patrat\obj\Debug\Varianta 65-2 Grafic functie x patrat.pdb
